@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jsalazar2015/node_mocha.git"
+    "url": "git+https://github.com/mayensy/node_mocha.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jsalazar2015/node_mocha/issues"
+    "url": "https://github.com/mayensy/node_mocha/issues"
   },
-  "homepage": "https://github.com/jsalazar2015/node_mocha#readme",
+  "homepage": "https://github.com/mayensy/node_mocha#readme",
   "dependencies": {
     "mocha": "^9.1.3"
   }
