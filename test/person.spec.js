@@ -1,4 +1,5 @@
-const assert = require('assert');
+const assert = require('chai').assert;
+// const assert = require('assert');
 const Person = require('../src/Person.js');
 
 describe('Person', function() {
@@ -38,7 +39,7 @@ describe('Person', function() {
     });
 
     // runs once after the last test in this block
-    before(function() {
+    after(function() {
         myPerson = null;
     });
 });
